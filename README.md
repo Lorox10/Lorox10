@@ -9,7 +9,25 @@
     <img src="https://skillicons.dev/icons?i=cs,cpp,py,css,html,js,git,github,linkedin,matlab,visualstudio,vscode,pr,ps,blender,mysql,dotnet,react&perline=6" />
   </a>
 </p>
+<h2> Connect with me 
+    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+</h2>
 
+<a href='https://www.linkedin.com/in/lorenzo-vargas-sala-42b609326'>
+    <img width='32px' align='center' src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href='https://www.instagram.com/loroxazquatch/'>
+    <img width='32px' align='center' src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href='https://lorox10.xazquatech.com/'>
+    <img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/>
+</a>
+
+<a href='mailto:loroxazquach10@gmail.com'>
+    <img width='32px' align='center' src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
 
 
