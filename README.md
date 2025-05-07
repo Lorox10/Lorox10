@@ -1,6 +1,6 @@
 # Welcome world! <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
 
-👨‍🏫 **Currently working as a part-time lecturer at the *Institución Universitaria Salazar y Herrera*, teaching courses such as Logic Programming, Programming Algorithms, Introduction to Programming Languages, and Object-Oriented Programming.**<br><br>
+👨‍🏫 **Currently working as a part-time professor at the *Institución Universitaria Salazar y Herrera*, teaching courses such as Logic Programming, Programming Algorithms, Introduction to Programming Languages, and Object-Oriented Programming.**<br><br>
 
 👨‍💻 Passionate Full Stack Developer with a love for Backend and Frontend<br><br> 🎯 Detail-oriented and dedicated, always seeking to solve logical problems and optimize solutions. I've participated in competitive programming events, which have helped me strengthen my technical skills.<br><br> 🎸 Heavy Metal and Hard Rock enthusiast: I play electric guitar, enjoy the outdoors, and love to travel. Always open to new challenges and opportunities to keep growing as a developer.
 <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRhNnp2bGdza2Nyc280NmZzamg3c204ZzBtOTU1bmNwejY4ZHEwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3d0PahT093UPe/giphy.gif" width="450px">
