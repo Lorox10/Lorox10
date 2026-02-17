@@ -9,7 +9,7 @@ Tengo experiencia desarrollando soluciones de software en **C#, Python y C++**, 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,py,css,html,js,git,github,linkedin,matlab,visualstudio,vscode,pr,ps,blender,mysql,dotnet,angular&perline=6" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,py,css,html,js,git,github,linkedin,matlab,visualstudio,vscode,pr,ps,react,mysql,dotnet,angular&perline=6" />
   </a>
 </p>
 
